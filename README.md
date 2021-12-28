@@ -4,4 +4,4 @@
 - 📫 How to reach me 
   Email: chenellehill@gmail.com
 
-^-^ Please check out some of my beginner projects!
+^-^ 
