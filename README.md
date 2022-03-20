@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @chill800
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning SQL, Tableau, and Python 
-- 📫 How to reach me 
+- 👋 Hi, I’m Chenelle Hill
+- 👀 I’m pursuing a career in  Data Analytics
+- 🌱 Experienced in SQL, Tableau, and Python  
   Email: chenellehill@gmail.com
   LinkedIn: https://www.linkedin.com/in/chill22/
 
